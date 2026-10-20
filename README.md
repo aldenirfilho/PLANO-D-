@@ -15,7 +15,7 @@ cívicas e sociais permanece aberta a pessoas de qualquer crença ou sem religi�
 
 ## 🌐 Site do PLANO D
 
-[Abrir o site para revisão](https://plano-d-comunidade.aldenirmed.chatgpt.site) — acesso privado do proprietário.
+[Abrir o site](https://plano-d-comunidade.aldenirmed.chatgpt.site) — acesso público, sem login no ChatGPT.
 
 Portal com proposta cívica, biblioteca pesquisável, filtros por seis temas, favoritos locais,
 páginas de leitura sem JavaScript e informações de fontes e privacidade.
