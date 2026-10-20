@@ -204,6 +204,21 @@
     });
   }
 
+  // Cada cópia depende de um clique e mantém o valor visível como alternativa.
+  document.querySelectorAll('[data-copy-target]').forEach((button) => {
+    button.addEventListener('click', async () => {
+      const target = $(button.dataset.copyTarget);
+      const feedback = $(button.dataset.copyFeedback);
+      if (!target || !feedback) return;
+      try {
+        await navigator.clipboard.writeText(target.textContent.trim());
+        feedback.textContent = button.dataset.copyLabel === 'Chave PIX' ? 'Chave PIX copiada. Confira o destinatário no banco antes de confirmar.' : 'Link do PLANO D copiado.';
+      } catch {
+        feedback.textContent = 'A cópia automática está indisponível. Selecione e copie o texto visível acima.';
+      }
+    });
+  });
+
   const menuToggle = $('menu-toggle');
   function closeMenu() {
     menuToggle.setAttribute('aria-expanded', 'false');
