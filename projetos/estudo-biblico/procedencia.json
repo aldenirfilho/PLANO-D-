@@ -43,7 +43,8 @@
   "textos_integrais_incluidos": false,
   "sincronizacao_automatica": false,
   "revisao_teologica_independente": "pendente",
-  "arquivos_integrados": [
+  "commit_integracao_original_destino": "02a6673427504245a26e7fdd399f50489f53c1ba",
+  "arquivos_no_commit_de_integracao_original": [
     {
       "caminho": "README.md",
       "sha256": "503e1f578934cfb5650e95d199882b65fa310cd760b051bf01c7f53f4f786eee"
@@ -60,5 +61,6 @@
       "caminho": "projetos/estudo-biblico/DIREITOS.md",
       "sha256": "42f02bdc1ada5e7c8fd31817ecc68490af23dc9632ef9a5496756d8b31e3f0d3"
     }
-  ]
+  ],
+  "escopo_da_procedencia": "Fontes e catálogo da edição fixada. Os hashes de arquivos integrados referem-se ao commit original de destino registrado; a interface do site é mantida separadamente em site/."
 }
