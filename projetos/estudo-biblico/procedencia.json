@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "integracao_preparada_em": "2026-10-20",
+  "destino": "https://github.com/aldenirfilho/PLANO-D-",
+  "projeto_origem": "Bíblia Cristã para Guerreiros de Fé",
+  "repositorio_origem": "https://github.com/aldenirfilho/biblia-crista-para-guerreiros-de-fe",
+  "visibilidade_repositorio_origem": "private",
+  "site_publico_origem": "https://biblia-crista-guerreiros-de-fe.aldenirmed.chatgpt.site",
+  "commit_origem": "4b5bca6968eb826b5bc1e852bede2ccfe95834a1",
+  "versao_origem": "0.3.0",
+  "data_edicao_origem": "2026-09-16",
+  "total_leituras": 24,
+  "artefatos_origem": [
+    {
+      "caminho": "dados/catalogo.json",
+      "git_blob_sha1": "131072f809e6caa2878f34ff81c866a1ed1e9050",
+      "sha256": "1af9825eb9b85c88b8c1f2985ad26a0229b32ff37bbfeb47f2a215fa4e0fbc6c"
+    },
+    {
+      "caminho": "dados/fontes.json",
+      "git_blob_sha1": "eddb71a7480df1283e83529a18bdac5843a49bcd",
+      "sha256": "b8dee99c82419c0701be37a43a5953b9f96dbd52f6a85e43e35e9c5934d10aae"
+    },
+    {
+      "caminho": "dist/index.html",
+      "git_blob_sha1": "dc6c77f6a4c83c52694faa94e7af8dddb1964c15",
+      "sha256": "8c0b0de0a6ce8034e578fe0673e79c4a83c443e568b139880c37692dc3224880"
+    },
+    {
+      "caminho": "LICENSE.md",
+      "git_blob_sha1": "63455ec211a926ac0b261b361e192fc634c2cba8",
+      "sha256": "0647d8a47cf4dc8c2e4187b787993b1eb325f198e7a53643f440dcfab603b057"
+    }
+  ],
+  "fonte_biblica": {
+    "id": "almeida-1911-gutenberg-62383",
+    "catalogo": "https://www.gutenberg.org/ebooks/62383",
+    "consulta_registrada_na_origem": "2026-09-15",
+    "sha256_transcricao_registrado_na_origem": "da779e89bf30dfec79763406dc92bfdf2853b61505b6ee3ffa1fb736cbdff762"
+  },
+  "transformacao": "Projeção das mensagens com status publicado para títulos, situações, resumos, referências, temas, natureza autoral, metáfora, estado da revisão teológica e links públicos; sem alterar essas informações.",
+  "conferencia_de_rotas": "Correspondência dos 24 links com o índice público do commit de origem; não equivale a teste HTTP individual de cada página.",
+  "textos_integrais_incluidos": false,
+  "sincronizacao_automatica": false,
+  "revisao_teologica_independente": "pendente",
+  "arquivos_integrados": [
+    {
+      "caminho": "README.md",
+      "sha256": "503e1f578934cfb5650e95d199882b65fa310cd760b051bf01c7f53f4f786eee"
+    },
+    {
+      "caminho": "projetos/estudo-biblico/README.md",
+      "sha256": "a3c6acc3bbab384141ae17413ab50a226bb1c61eabcc4d84772e7b08a5cf1c5b"
+    },
+    {
+      "caminho": "projetos/estudo-biblico/catalogo.json",
+      "sha256": "475cd16c8077f3fc8ac04a3a7adc17d4deef115fd3dc835bfb3a64e80990d41b"
+    },
+    {
+      "caminho": "projetos/estudo-biblico/DIREITOS.md",
+      "sha256": "42f02bdc1ada5e7c8fd31817ecc68490af23dc9632ef9a5496756d8b31e3f0d3"
+    }
+  ]
+}
