@@ -1,11 +1,57 @@
 {
   "consulta": "2026-10-20",
   "atualizacao": "manual",
-  "tipo_qr": "URL do canal oficial de doação; não é BR Code de pagamento Pix",
+  "tipo_qr": "URL do site institucional ou canal oficial de doação; não é BR Code de pagamento Pix",
   "intermediacao_financeira": false,
   "validacao_bancaria": false,
   "auditoria_independente_relatorios": false,
   "instituicoes": [
+    {
+      "id": "apae-fortaleza",
+      "nome": "APAE Fortaleza",
+      "identidade": "Associação de Pais e Amigos dos Excepcionais — APAE de Fortaleza",
+      "categoria": "INCLUSÃO E CUIDADO · FORTALEZA",
+      "descricao": "Conheça o trabalho da APAE Fortaleza e contribua para o cuidado e a inclusão de pessoas com deficiência intelectual e múltipla.",
+      "cnpj": "07.143.845/0001-85",
+      "site": "https://fortaleza.apaece.org.br/",
+      "doacao": "https://fortaleza.apaece.org.br/doacao",
+      "qr_url": "https://fortaleza.apaece.org.br/doacao",
+      "transparencia": "https://fortaleza.apaece.org.br/transparencia",
+      "pix": "07143845000185",
+      "pix_tipo": "CNPJ",
+      "pix_publicacao_original": "07.143.845/0001-85",
+      "pix_fonte": "https://fortaleza.apaece.org.br/doacao",
+      "pix_status": "Chave Pix expressamente publicada na página oficial de doação; exibida aqui sem pontuação para copiar.",
+      "beneficiario": "Associação de Pais e Amigos dos Excepcionais — APAE de Fortaleza",
+      "fontes": [
+        "https://fortaleza.apaece.org.br/",
+        "https://fortaleza.apaece.org.br/doacao",
+        "https://fortaleza.apaece.org.br/transparencia"
+      ],
+      "limites": "A página de doação não apresenta data de atualização. Documentos contábeis vinculados não foram analisados; não houve validação bancária."
+    },
+    {
+      "id": "verde-luz",
+      "nome": "Instituto Verdeluz",
+      "identidade": "Instituto Verdeluz · Fortaleza, Ceará",
+      "categoria": "NATUREZA E EDUCAÇÃO · CEARÁ",
+      "descricao": "Apoie iniciativas socioambientais no Ceará. Conheça os projetos, a educação ambiental e os documentos divulgados pela instituição.",
+      "cnpj": "24.874.888/0001-50",
+      "site": "https://verdeluz.org/",
+      "doacao": "https://institutoverdeluz.doe.transforme.solutions/1405",
+      "qr_url": "https://verdeluz.org/",
+      "transparencia": "https://verdeluz.org/transparencia/",
+      "pix": null,
+      "pix_fonte": "https://www.asaas.com/c/sq3wnxdovqp292jy",
+      "pix_status": "Pix disponível no canal Asaas vinculado pelo site institucional. Na consulta, esse canal exibe doação única de R$ 30. Não há chave fixa atual confirmada para reproduzir aqui.",
+      "fontes": [
+        "https://verdeluz.org/",
+        "https://verdeluz.org/transparencia/",
+        "https://institutoverdeluz.transforme.tech/doeagora/1405",
+        "https://www.asaas.com/c/sq3wnxdovqp292jy"
+      ],
+      "limites": "O portal lista estatuto, atas, atividades e balanço financeiro. Os documentos vinculados não foram analisados. A campanha encerrada de 2020 não foi usada para confirmar chave Pix atual."
+    },
     {
       "id": "unicef",
       "nome": "UNICEF",

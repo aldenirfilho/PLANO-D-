@@ -24,4 +24,6 @@ A revisão teológica independente da origem permanece pendente. Alterações ed
 
 A página inclui QR estático do endereço público, download em PNG e link de WhatsApp com mensagem revisável. O link não envia mensagens automaticamente.
 
-O diretório de doações aponta para canais oficiais de UNICEF, MSF, Cáritas Brasileira, Pastoral da Criança e Gerando Falcões. QR codes abrem os sites das instituições; não são códigos de pagamento. Chaves Pix só aparecem quando conferidas em fonte oficial. Não há intermediação financeira nem promessa de parceria. As fontes e a data de consulta estão em `dist/dados/doacoes.json`; a atualização é manual.
+O diretório de doações aponta para canais oficiais de APAE Fortaleza, Instituto Verdeluz, UNICEF, MSF, Cáritas Brasileira, Pastoral da Criança e Gerando Falcões. QR codes abrem os sites das instituições; não são códigos de pagamento. Chaves Pix só aparecem quando conferidas em fonte oficial. Não há intermediação financeira nem promessa de parceria. As fontes e a data de consulta estão em `dist/dados/doacoes.json`; a atualização é manual.
+
+A APAE Fortaleza publica expressamente seu CNPJ como chave Pix; o valor copiável usa os mesmos dígitos sem pontuação. Para o Instituto Verdeluz, não foi reproduzida chave fixa sem confirmação atual: o cartão distingue o canal geral de contribuição e o canal Asaas com Pix, que exibia doação única de R$ 30 na consulta de 20/10/2026. Relatórios vinculados não foram auditados. O site não publica registros pessoais de doação.
