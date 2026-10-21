@@ -606,3 +606,9 @@ summary:after { color: var(--amber); }
 @media (max-width:900px) { .hero-grid { grid-template-columns: 1fr; gap: 30px; } .hero-art { max-width: none; } .hero-copy { max-width: 720px; } .hero-description { max-width: 620px; } .hero h1 { font-size: clamp(3.2rem,7vw,4.5rem); } .guardians-footer { align-items: flex-start; flex-direction: column; gap: 20px; } }
 @media (max-width:700px) { .guardians-section { padding-block: 60px; } .guardians-intro { margin-top: 24px; } .guardians-grid { grid-template-columns: repeat(2,minmax(0,1fr)); } .hero h1 { font-size: clamp(2.7rem,8.8vw,4.5rem); } }
 @media (max-width:500px) { .guardians-grid { grid-template-columns: 1fr; gap: 14px; } .guardian-card { padding: 21px; } }
+
+/* Galeria das fichas individuais. */
+.guardian-card { display: flex; flex-direction: column; align-items: flex-start; }
+.guardian-portrait { display: block; width: 100%; height: auto; aspect-ratio: 2/3; object-fit: contain; border-radius: 5px; margin-bottom: 20px; background: #060a12; border: 1px solid #354762; }
+.guardian-card > p:not(.guardian-value) { color: var(--muted); font-size: .86rem; line-height: 1.8; margin-bottom: 20px; }
+.guardian-open { margin-top: auto; padding-top: 2px; font-size: .78rem; }

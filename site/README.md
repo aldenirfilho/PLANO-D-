@@ -36,3 +36,8 @@ A interface usa uma identidade aeroespacial escura com guardião conceitual orig
 ### Cinco cavaleiros do universo PLANO D
 
 Arte de ficção criada com a ferramenta integrada de geração de imagens, em 20/10/2026, a pedido do idealizador. A versão PNG original está em `dist/assets/cavaleiros-plano-d.png`; a versão WebP usada na hero preserva a composição 1536×1024 e reduz o peso para 481.518 bytes. A página apresenta Nexo, Raiz, Brasa, Prisma e Lúmen como alegorias dos valores do projeto, com crédito da arte e distinção do texto bíblico. O arquivo SVG anterior permanece preservado.
+
+
+### Fichas dos cinco cavaleiros
+
+As cinco páginas em `dist/cavaleiros/` oferecem retrato individual, história, três poderes ficcionais, missão, gesto na vida real e links para o diretório de causas. São HTML estático e funcionam sem JavaScript. Os dados ficam em `dist/dados/cavaleiros.json`; após editar o conteúdo, execute `python3 scripts/gerar-fichas.py` para atualizar as páginas e os cartões da página inicial. Os retratos usados no site ficam em `dist/assets/cavaleiros/`, em WebP; os PNGs originais e prompts foram preservados na pasta de entrega `artes-cavaleiros-fichas/` do workspace. Não há coleta de dados, envio de mensagem nem doação automática nas fichas.

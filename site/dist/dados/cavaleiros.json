@@ -1,0 +1,180 @@
+[
+  {
+    "id": "nexo",
+    "name": "Nexo",
+    "color": "#67e8f9",
+    "virtue": "Colaboração",
+    "tagline": "Nenhuma luz precisa atravessar o escuro sozinha.",
+    "history": "Nexo construía passarelas entre as cidades suspensas de Aurora. Quando a Névoa da Indiferença apagou as rotas, tentou resolver tudo sozinho e deixou muita gente sem passagem. Uma menina pediu um mapa simples; um morador solicitou mais tempo para atravessar. Nexo parou para ouvir. Em oração, buscou em Deus humildade para dividir o comando. Sua armadura ganhou fios de luz ciano quando a comunidade desenhou caminhos acessíveis em conjunto. Hoje, conversa com pessoas neurodivergentes sobre suas preferências antes de organizar qualquer missão. Aprendeu que proteger rios e florestas também exige repartir decisões com quem vive ali. Sua maior conquista foi entregar aos outros o direito de conduzir.",
+    "powers": [
+      {
+        "name": "Pontes de constelação",
+        "description": "Tece passagens de luz entre mundos distantes, com percursos que cada viajante pode ajustar ao próprio ritmo."
+      },
+      {
+        "name": "Círculo de vozes",
+        "description": "Cria uma esfera ciano onde palavras, imagens e sinais permanecem visíveis até que todos escolham como participar."
+      },
+      {
+        "name": "Fornalha do encontro",
+        "description": "Converte os destroços abandonados pela Cobiça em ferramentas luminosas que só funcionam quando seus usuários cooperam livremente."
+      }
+    ],
+    "mission": "Reunir vozes que a indiferença separou, buscar em Deus coragem para repartir decisões e construir acordos acessíveis, com participação neurodivergente, para proteger comunidades, rios e florestas, respeitando o direito de cada pessoa escolher como contribuir e de recusar quando necessário.",
+    "realAction": "Escolha uma causa no diretório, leia suas fontes e combine uma ajuda possível. Ofereça informação em formato acessível, respeite decisões individuais e só compartilhe contatos ou histórias com autorização expressa.",
+    "causes": [
+      {
+        "label": "Instituto Verdeluz · ações socioambientais",
+        "href": "index.html#instituicao-verde-luz"
+      },
+      {
+        "label": "APAE Fortaleza · inclusão e cuidado",
+        "href": "index.html#instituicao-apae-fortaleza"
+      }
+    ]
+  },
+  {
+    "id": "raiz",
+    "name": "Raiz",
+    "color": "#86efac",
+    "virtue": "Cuidado com a natureza",
+    "tagline": "O futuro começa onde alguém decide cuidar.",
+    "history": "Raiz guardava sementes num jardim orbital que imitava a Caatinga. A cada volta, via a Cobiça cobrir de metal as margens do planeta. Quis salvar o jardim fechando seus portões, até perceber que uma natureza protegida sem comunidade virava apenas coleção. Pediu a Deus discernimento e abriu espaço para os moradores conduzirem o cuidado. Com participantes neurodivergentes, criou trilhas sinalizadas, áreas tranquilas e escolhas de tarefas. Sua aura verde surgiu na primeira reunião em que ninguém precisou esconder seus limites para ser ouvido. Desde então, percorre florestas, sertões e mares, recolhendo sementes e devolvendo às comunidades o direito de decidir como proteger sua casa.",
+    "powers": [
+      {
+        "name": "Bosque das órbitas",
+        "description": "Ergue árvores de luz em terrenos cósmicos devastados, formando abrigos temporários para viajantes e criaturas de todos os mundos."
+      },
+      {
+        "name": "Memória da semente",
+        "description": "Abre pequenos planetas luminosos que mostram os ciclos de uma floresta, de uma nascente ou de uma praia preservada."
+      },
+      {
+        "name": "Maré de retorno",
+        "description": "Reúne o lixo espacial em espirais verdes e o transforma em solo estelar para novos jardins imaginários."
+      }
+    ],
+    "mission": "Guardar sementes e nascentes, buscar em Deus perseverança para enfrentar a cobiça e abrir caminhos acessíveis de participação neurodivergente, aproximando o cuidado com a natureza das necessidades humanas, sem decidir pelas comunidades ou exigir que alguém ultrapasse seus próprios limites.",
+    "realAction": "Conheça iniciativas da Caatinga, do litoral e das florestas. Escolha uma atividade compatível com seus recursos, peça orientações acessíveis e respeite a fauna, a vegetação e as regras locais existentes.",
+    "causes": [
+      {
+        "label": "Associação Caatinga · proteção do bioma",
+        "href": "index.html#instituicao-caatinga"
+      },
+      {
+        "label": "Projeto Tamar · vida marinha",
+        "href": "index.html#instituicao-tamar"
+      },
+      {
+        "label": "SOS Mata Atlântica · florestas e água",
+        "href": "index.html#instituicao-sos-mata-atlantica"
+      }
+    ]
+  },
+  {
+    "id": "brasa",
+    "name": "Brasa",
+    "color": "#fb923c",
+    "virtue": "Solidariedade",
+    "tagline": "Coragem é estar presente quando alguém precisa.",
+    "history": "Brasa trabalhava nas fornalhas de uma estação onde o calor era vendido a quem pudesse pagar. Quando um apagão deixou famílias e animais no frio, reuniu as brasas restantes e descobriu que ainda faltava uma coisa: saber quem precisava de quê. Em vez de distribuir tudo segundo sua própria vontade, ouviu os moradores. Pediu a Deus coragem para servir sem comandar a vida alheia. Sua chama laranja passou a aquecer sem ferir. Com vizinhos neurodivergentes, organizou pedidos claros e maneiras diferentes de participar. Agora enfrenta a Cobiça abrindo abrigos, partilhando recursos e cuidando para que a ajuda não se torne outra forma de controle.",
+    "powers": [
+      {
+        "name": "Fogo que acolhe",
+        "description": "Acende uma chama cósmica que oferece calor e iluminação sem queimar pessoas, animais ou plantas."
+      },
+      {
+        "name": "Abrigo da brasa",
+        "description": "Forma um refúgio de luz laranja onde cada visitante escolhe distância, luminosidade e espaço para descansar."
+      },
+      {
+        "name": "Partilha estelar",
+        "description": "Transforma os cofres vazios deixados pela Cobiça em pequenas estrelas que alimentam os abrigos da equipe."
+      }
+    ],
+    "mission": "Transformar a energia da revolta em presença cuidadosa, buscar em Deus firmeza para repartir recursos e apoiar pessoas neurodivergentes com respeito à autonomia, enquanto protege animais, água e moradia, sem impor escolhas ou transformar a necessidade alheia em espetáculo público.",
+    "realAction": "Pergunte a alguém próximo qual ajuda seria útil, sem presumir necessidades. Combine limites, preserve a privacidade e consulte os canais institucionais antes de oferecer tempo, materiais ou qualquer contribuição financeira.",
+    "causes": [
+      {
+        "label": "APAE Fortaleza · cuidado e inclusão",
+        "href": "index.html#instituicao-apae-fortaleza"
+      },
+      {
+        "label": "Instituto Verdeluz · comunidade e ambiente",
+        "href": "index.html#instituicao-verde-luz"
+      }
+    ]
+  },
+  {
+    "id": "prisma",
+    "name": "Prisma",
+    "color": "#c4b5fd",
+    "virtue": "Inclusão neurodivergente",
+    "tagline": "Pertencer também é poder escolher o próprio caminho.",
+    "history": "Prisma era cartógrafa das auroras numa cidade que obrigava todos a seguir a mesma luz, no mesmo horário. As rotas pareciam perfeitas, mas muita gente ficava pelo caminho. Ao escutar moradores neurodivergentes, percebeu que o mapa apagava necessidades, interesses e escolhas. Na oração, pediu a Deus disposição para rever o próprio trabalho. Sua armadura refletiu uma aura violeta quando desenhou várias entradas para a praça. Prisma aprendeu a perguntar, oferecer alternativas e aceitar recusas. Sua missão cresceu até alcançar praias e florestas: uma comunidade acessível também precisa de água limpa e espaços de convivência. Hoje, seus mapas começam pelas pessoas que vão usá-los.",
+    "powers": [
+      {
+        "name": "Aurora de caminhos",
+        "description": "Projeta rotas violetas que cada viajante pode explorar, interromper ou trocar sem perder o acesso ao destino."
+      },
+      {
+        "name": "Véu do sossego",
+        "description": "Cria um espaço fantástico de luz suave e som regulável, que só envolve quem escolhe entrar."
+      },
+      {
+        "name": "Prisma das mensagens",
+        "description": "Converte os sinais das estrelas em imagens, palavras e ritmos, oferecendo formas diferentes de compreender a mesma informação."
+      }
+    ],
+    "mission": "Abrir espaço para diferentes formas de perceber, aprender e participar, buscar em Deus humildade para ouvir pessoas neurodivergentes e defender escolhas acessíveis nas ações comunitárias e ambientais, reconhecendo limites, autonomia e o direito de pertencer sem precisar demonstrar talentos extraordinários.",
+    "realAction": "Ao organizar uma conversa ou atividade, ofereça instruções claras, pausas e alternativas de participação. Pergunte preferências diretamente, acolha a recusa e deixe decisões sobre apoio com a própria pessoa envolvida.",
+    "causes": [
+      {
+        "label": "APAE Fortaleza · conhecer a atuação institucional",
+        "href": "index.html#instituicao-apae-fortaleza"
+      },
+      {
+        "label": "Instituto Verdeluz · participação socioambiental",
+        "href": "index.html#instituicao-verde-luz"
+      }
+    ]
+  },
+  {
+    "id": "lumen",
+    "name": "Lúmen",
+    "color": "#ffd166",
+    "virtue": "Fé em Deus",
+    "tagline": "A fé encontra caminho quando se transforma em cuidado.",
+    "history": "Lúmen vigiava um farol na borda de uma estrela apagada. Esperava um sinal grandioso para agir, enquanto as pequenas necessidades da comunidade passavam despercebidas. Numa noite silenciosa, deixou a torre para acompanhar um vizinho até casa. Percebeu que sua fé em Deus pedia presença também nos dias comuns. O farol acendeu uma chama dourada que ele decidiu levar consigo. Ao reunir os cavaleiros, ouviu pessoas neurodivergentes, respeitou crenças diferentes e abriu espaço para quem preferia observar. Hoje protege o céu sem esquecer a água, a floresta e quem caminha ao seu lado. Continua fazendo perguntas; sua fé amadurece quando aprende a cuidar melhor.",
+    "powers": [
+      {
+        "name": "Farol da esperança",
+        "description": "Acende uma coluna dourada que revela caminhos seguros entre as tempestades do universo ficcional."
+      },
+      {
+        "name": "Manto do amanhecer",
+        "description": "Estende uma aurora protetora sobre cidades, matas e praias até que seus habitantes organizem o próprio cuidado."
+      },
+      {
+        "name": "Centelha do recomeço",
+        "description": "Reacende os faróis abandonados pela Indiferença quando alguém decide oferecer ajuda por vontade própria."
+      }
+    ],
+    "mission": "Manter a fé em Deus ligada a escolhas concretas de cuidado, acolher pessoas neurodivergentes com autonomia e acessibilidade e inspirar colaboração na defesa da vida, da água e das florestas, respeitando outras crenças e caminhando ao lado de cada pessoa.",
+    "realAction": "Reserve alguns minutos para oração ou reflexão e escolha um gesto concreto de cuidado. Respeite outras crenças, consulte fontes confiáveis e mantenha qualquer ajuda dentro dos seus limites pessoais reais.",
+    "causes": [
+      {
+        "label": "Associação Caatinga · cuidar da criação",
+        "href": "index.html#instituicao-caatinga"
+      },
+      {
+        "label": "Projeto Tamar · proteção da vida marinha",
+        "href": "index.html#instituicao-tamar"
+      },
+      {
+        "label": "APAE Fortaleza · dignidade e participação",
+        "href": "index.html#instituicao-apae-fortaleza"
+      }
+    ]
+  }
+]
