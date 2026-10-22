@@ -41,3 +41,18 @@ Arte de ficção criada com a ferramenta integrada de geração de imagens, em 2
 ### Fichas dos cinco cavaleiros
 
 As cinco páginas em `dist/cavaleiros/` oferecem retrato individual, história, três poderes ficcionais, missão, gesto na vida real e links para o diretório de causas. São HTML estático e funcionam sem JavaScript. Os dados ficam em `dist/dados/cavaleiros.json`; após editar o conteúdo, execute `python3 scripts/gerar-fichas.py` para atualizar as páginas e os cartões da página inicial. Os retratos usados no site ficam em `dist/assets/cavaleiros/`, em WebP; os PNGs originais e prompts foram preservados na pasta de entrega `artes-cavaleiros-fichas/` do workspace. Não há coleta de dados, envio de mensagem nem doação automática nas fichas.
+
+
+### HQ 01 — Quando cinco luzes se encontram
+
+Edição de 22/10/2026. Oito páginas e 24 quadros contam as origens, o encontro e a primeira missão de Nexo, Raiz, Brasa, Prisma e Lúmen. A HQ usa as identidades já registradas em `dist/dados/cavaleiros.json`; a máquina da Cobiça, a oferta das chaves e o pacto final são novos elementos ficcionais desta edição.
+
+- Leitor: `dist/hq/index.html`; versão integral em texto: `dist/hq/texto.html`.
+- Roteiro editável: `dist/dados/hq-origem.json`.
+- Artes: `dist/assets/hq/pagina-01.webp` a `pagina-08.webp`.
+- Interface: `dist/hq.css` e `dist/hq.js`.
+- Regenerar após editar o roteiro: `python3 scripts/gerar-hq.py`.
+- As falas são HTML ampliável, com descrições por quadro; sem JavaScript, todas as páginas ficam legíveis. A interface permite uma página por vez, leitura contínua, salto de página e texto amplo. Não usa dados pessoais, armazenamento ou telemetria.
+- Fontes do cânone, prompts e registro das artes: `ARTE-HQ.md`.
+
+Endereço da HQ: https://plano-d-comunidade.aldenirmed.chatgpt.site/hq/

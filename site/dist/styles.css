@@ -602,6 +602,8 @@ summary:after { color: var(--amber); }
 .guardians-footer { display: flex; align-items: center; justify-content: space-between; gap: 32px; margin-top: 28px; }
 .guardians-footer p { max-width: 740px; font-size: .8rem; line-height: 1.8; color: var(--muted); }
 .guardians-footer .button { flex-shrink: 0; }
+.guardians-footer h3 { margin-block: 8px 10px; font-size: clamp(1.35rem,2.5vw,1.8rem); line-height: 1.3; letter-spacing: -.025em; }
+.guardians-footer .eyebrow { color: var(--cyan); font-size: .66rem; }
 @media (max-width:1100px) { .guardians-grid { grid-template-columns: repeat(3,minmax(0,1fr)); } }
 @media (max-width:900px) { .hero-grid { grid-template-columns: 1fr; gap: 30px; } .hero-art { max-width: none; } .hero-copy { max-width: 720px; } .hero-description { max-width: 620px; } .hero h1 { font-size: clamp(3.2rem,7vw,4.5rem); } .guardians-footer { align-items: flex-start; flex-direction: column; gap: 20px; } }
 @media (max-width:700px) { .guardians-section { padding-block: 60px; } .guardians-intro { margin-top: 24px; } .guardians-grid { grid-template-columns: repeat(2,minmax(0,1fr)); } .hero h1 { font-size: clamp(2.7rem,8.8vw,4.5rem); } }

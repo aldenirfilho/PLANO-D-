@@ -1,0 +1,73 @@
+{
+  "edition": 1,
+  "date": "2026-10-22",
+  "tool": "image_gen",
+  "web_format": "WebP",
+  "quality": 89,
+  "artworks": [
+    {
+      "page": 1,
+      "path": "dist/assets/hq/pagina-01.webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 575282,
+      "sha256": "fd4df6a1dc1c2a9dd48d2bbf321534902289bdf56d934c08a8537b695a3f280d"
+    },
+    {
+      "page": 2,
+      "path": "dist/assets/hq/pagina-02.webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 691682,
+      "sha256": "d0deb30cfc88727e7c47af899f86c06a84aa26de0f495c7faf78dd57b9211202"
+    },
+    {
+      "page": 3,
+      "path": "dist/assets/hq/pagina-03.webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 545434,
+      "sha256": "a36fbc77138c7d1e9f61c5aa617cc5d0ca7feb120686980a508027e4de18abed"
+    },
+    {
+      "page": 4,
+      "path": "dist/assets/hq/pagina-04.webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 602560,
+      "sha256": "3c6b9fa0a2735cbdbaf0269a8109727e93cd6244808095d3e126f9b90f7b8b26"
+    },
+    {
+      "page": 5,
+      "path": "dist/assets/hq/pagina-05.webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 490148,
+      "sha256": "8ad3ff2ff4b0de0f09cddbb5c1e118bfdf202c39bab79b5b5a3ccc999d4ac191"
+    },
+    {
+      "page": 6,
+      "path": "dist/assets/hq/pagina-06.webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 608240,
+      "sha256": "70b4294f3b482032d572949635abc914e5a68e68de38cef383c5d6630685a9f5"
+    },
+    {
+      "page": 7,
+      "path": "dist/assets/hq/pagina-07.webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 767270,
+      "sha256": "635fec26bc05301fd6248714408e5e40dcff2e9c19bb4f2640369a73ebb450cd"
+    },
+    {
+      "page": 8,
+      "path": "dist/assets/hq/pagina-08.webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 758730,
+      "sha256": "4c73f8aab9442d27e505870b089166b7a3d18469b00552df8efaf8a0ef79009b"
+    }
+  ]
+}
