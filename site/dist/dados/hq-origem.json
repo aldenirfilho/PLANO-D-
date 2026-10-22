@@ -1,0 +1,391 @@
+{
+  "title": "Quando cinco luzes se encontram",
+  "subtitle": "A origem dos cavaleiros do Plano D",
+  "universe": "Reaverso · Plano D · Projeto 360X",
+  "edition": "01",
+  "date": "2026-10-22",
+  "credits": {
+    "idealization": "Aldenir Rocha de Oliveira Filho",
+    "story_and_art": "Desenvolvimento com assistência de inteligência artificial"
+  },
+  "premise": "Cinco trajetórias se cruzam quando a Cobiça ameaça transformar água, calor e sementes em propriedade de uma única torre. A comunidade participa da resposta.",
+  "source": "Cânone preservado em cavaleiros.json; criação desta HQ em 22/10/2026. Novos elementos narrativos: máquina da Cobiça, oferta das chaves e pacto dos cinco.",
+  "pages": [
+    {
+      "number": 1,
+      "title": "Nexo · A ponte que faltava",
+      "accent": "#67e8f9",
+      "panels": [
+        {
+          "narration": "Em Aurora, a Cobiça fechava caminhos. A Névoa da Indiferença escondia as cidades, e Nexo tentava reparar todas as passarelas sozinho.",
+          "speaker": "Nexo",
+          "dialogue": "Só mais uma ponte. Eu consigo dar conta.",
+          "scene": "Painel horizontal amplo. Nexo, cavaleiro astronauta de armadura escura prateada e caveira luminosa ciano, trabalha isolado numa passarela incompleta entre cidades suspensas. Névoa escura envolve o vão. Moradores esperam em segurança na plataforma, enquanto conexões abandonadas aparecem ao fundo. Moto ciano estacionada. Nenhuma pessoa caindo.",
+          "alt": "Nexo tenta reparar sozinho uma passarela entre cidades suspensas cobertas pela névoa."
+        },
+        {
+          "narration": "Uma menina pediu um mapa simples. Um morador precisava de mais tempo. A passagem existia, mas ainda não servia a todos.",
+          "speaker": "Menina",
+          "dialogue": "Você pode desenhar o caminho comigo? Aqui eu me perco.",
+          "scene": "Painel horizontal de aproximação. Nexo se abaixa para olhar o mapa que uma menina aponta. Um adulto mais velho espera ao lado. A prancha mostra linhas confusas, sem letras. Os moradores se dirigem a Nexo como participantes, não como adoradores. A luz ciano baixa suavemente.",
+          "alt": "Uma menina mostra a Nexo onde o mapa da travessia é confuso; outro morador espera mais tempo para atravessar."
+        },
+        {
+          "narration": "Nexo pediu a Deus humildade para dividir o comando. A comunidade redesenhou as rotas; a luz ciano finalmente encontrou passagem.",
+          "speaker": "Nexo",
+          "dialogue": "Eu estava construindo sem ouvir. Vamos refazer o mapa juntos.",
+          "scene": "Painel horizontal amplo. Nexo e moradores terminam um mapa coletivo simples. A passarela ciano agora oferece caminhos largos e pontos de descanso; pessoas seguem em ritmos diferentes. Nexo entrega a prancha de controle a uma moradora. Céu clareia discretamente, sem cura instantânea da cidade.",
+          "alt": "Nexo e moradores redesenham juntos uma ponte acessível, com rotas claras e locais de descanso."
+        }
+      ],
+      "art": {
+        "width": 1024,
+        "height": 1536,
+        "panels": [
+          {
+            "y": 0,
+            "height": 443
+          },
+          {
+            "y": 450,
+            "height": 486
+          },
+          {
+            "y": 943,
+            "height": 593
+          }
+        ]
+      }
+    },
+    {
+      "number": 2,
+      "title": "Raiz · Um jardim de portas abertas",
+      "accent": "#86efac",
+      "panels": [
+        {
+          "narration": "Num jardim orbital inspirado na Caatinga, Raiz guardava sementes. Ao ver a Cobiça cobrir as margens do planeta, fechou os portões.",
+          "speaker": "Raiz",
+          "dialogue": "Aqui dentro, pelo menos, nada será levado.",
+          "scene": "Painel horizontal amplo. Raiz, astronauta de caveira verde e armadura com cipós, fecha a grade translúcida de um jardim orbital. Mandacarus, arbustos e recipientes de sementes permanecem dentro; moradores ficam do lado de fora. Ao fundo, margens de um planeta recebem estruturas metálicas. Moto verde próxima ao portão.",
+          "alt": "Raiz fecha o jardim orbital de sementes enquanto construções metálicas avançam sobre o planeta."
+        },
+        {
+          "narration": "Uma moradora voltou com terra nas mãos. Conhecia os ciclos daquele lugar e queria participar das decisões sobre o jardim.",
+          "speaker": "Moradora",
+          "dialogue": "Essas sementes precisam de chão. E nós também sabemos cuidar.",
+          "scene": "Painel horizontal próximo. Uma moradora adulta segura uma pequena muda com terra diante do portão. Raiz se aproxima para ouvi-la. Outras pessoas mostram ferramentas manuais e desenhos das margens do rio. Vegetação viva aparece dos dois lados.",
+          "alt": "Uma moradora apresenta a Raiz uma muda e oferece seu conhecimento para cuidar do jardim."
+        },
+        {
+          "narration": "Raiz abriu o jardim. Com participantes neurodivergentes, surgiram trilhas sinalizadas, tarefas escolhidas e lugares tranquilos. O cuidado agora tinha muitas mãos.",
+          "speaker": "Raiz",
+          "dialogue": "O portão fica aberto. Vamos decidir juntos o que plantar e onde descansar.",
+          "scene": "Painel horizontal luminoso. Portão aberto. Raiz acompanha moradores que escolhem sementes e desenham trilhas. Há placas com símbolos simples, caminhos amplos, pessoas plantando e outras descansando em sombra tranquila. Uma adulta aponta a próxima área de cultivo. A natureza não cresce instantaneamente.",
+          "alt": "O jardim aberto oferece trilhas claras, cultivo comunitário e uma área tranquila para quem prefere descansar."
+        }
+      ],
+      "art": {
+        "width": 1024,
+        "height": 1536,
+        "panels": [
+          {
+            "y": 0,
+            "height": 506
+          },
+          {
+            "y": 515,
+            "height": 447
+          },
+          {
+            "y": 971,
+            "height": 565
+          }
+        ]
+      }
+    },
+    {
+      "number": 3,
+      "title": "Brasa · O calor que se reparte",
+      "accent": "#fb923c",
+      "panels": [
+        {
+          "narration": "Na estação das fornalhas, só recebia calor quem podia pagar. Um apagão deixou famílias e animais diante de portas geladas.",
+          "speaker": "Brasa",
+          "dialogue": "Ainda há brasas. Ninguém precisa atravessar esta noite sozinho.",
+          "scene": "Painel horizontal. Estação orbital fria, fornalhas desligadas e tubulações escuras. Brasa, caveira laranja em capacete e armadura preta de juntas douradas, protege uma pequena brasa entre as mãos. Famílias agasalhadas e um cão aguardam em local seguro. Sua moto negra está parada, sem violência.",
+          "alt": "Brasa guarda uma pequena chama numa estação fria onde famílias e animais perderam o aquecimento."
+        },
+        {
+          "narration": "Brasa quase decidiu tudo sozinho. Então perguntou do que cada pessoa precisava. As respostas mudaram o abrigo que planejava construir.",
+          "speaker": "Morador",
+          "dialogue": "Quero ajudar. Mas preciso de uma tarefa por vez e de um canto mais quieto.",
+          "scene": "Painel horizontal íntimo. Brasa ouve um morador adulto que aponta dois desenhos: uma tarefa simples e um espaço silencioso. Outra moradora pede água para o cão. Prancha com pictogramas sobre uma mesa. Todos ao mesmo nível, sem pessoas ajoelhadas.",
+          "alt": "Um morador explica a Brasa suas preferências: uma tarefa por vez e um local mais silencioso."
+        },
+        {
+          "narration": "A chama passou de mão em mão sem ferir. Brasa pediu a Deus coragem para servir; os moradores organizaram o próprio abrigo.",
+          "speaker": "Brasa",
+          "dialogue": "Você escolhe como participar. Descansar também cabe aqui.",
+          "scene": "Painel horizontal quente. Brasa oferece calor laranja controlado, como pequenas lanternas, numa sala organizada pelos moradores. Uma pessoa distribui mantas, outra descansa afastada da luz, o cão repousa junto a água. A fornalha ilumina suavemente. Fogo não toca roupas, pessoas ou plantas.",
+          "alt": "O abrigo recebe calor suave; moradores escolhem tarefas ou descanso e também acolhem um cão."
+        }
+      ],
+      "art": {
+        "width": 1024,
+        "height": 1536,
+        "panels": [
+          {
+            "y": 0,
+            "height": 498
+          },
+          {
+            "y": 512,
+            "height": 479
+          },
+          {
+            "y": 1005,
+            "height": 531
+          }
+        ]
+      }
+    },
+    {
+      "number": 4,
+      "title": "Prisma · Mais de um caminho",
+      "accent": "#c4b5fd",
+      "panels": [
+        {
+          "narration": "Prisma desenhava rotas perfeitas para uma cidade que exigia a mesma luz e o mesmo horário. Muitos moradores nunca chegavam à praça.",
+          "speaker": "Prisma",
+          "dialogue": "Meu mapa diz que todos conseguem. Por que tanta gente fica de fora?",
+          "scene": "Painel horizontal. Prisma, cartógrafa astronauta de armadura grafite, caveira violeta e tecido roxo, observa um único corredor branco ofuscante que leva à praça. Pessoas hesitam na entrada ou retornam. Ela segura uma prancha geométrica sem escrita. Moto violeta à margem.",
+          "alt": "Prisma percebe que um único corredor muito iluminado impede parte dos moradores de chegar à praça."
+        },
+        {
+          "narration": "Pessoas neurodivergentes revisaram o mapa com ela. Falaram de luz, ruído, tempo e escolhas. Prisma escutou antes de desenhar novamente.",
+          "speaker": "Moradora",
+          "dialogue": "Posso receber as instruções por escrito? E fazer uma pausa sem perder minha vez?",
+          "scene": "Painel horizontal ao nível de uma mesa. Prisma e adultos de aparências diversas discutem um mapa. Uma moradora aponta um cartão visual e uma área de descanso. Outra pessoa usa protetores de ouvido. Luz violeta suave; ninguém recebe brilho mágico ou marca diagnóstica.",
+          "alt": "Moradores revisam o mapa com Prisma e solicitam instruções claras e pausas durante o percurso."
+        },
+        {
+          "narration": "A praça ganhou várias entradas. Havia mensagens claras, silêncio e tempo para voltar. Pertencer já não dependia de acompanhar um único ritmo.",
+          "speaker": "Prisma",
+          "dialogue": "Hoje você prefere observar? Tudo bem. Seu lugar continua aqui.",
+          "scene": "Painel horizontal amplo. Rotas violetas diversas chegam a uma praça com árvores, sinais simples e um espaço tranquilo. Prisma mostra caminhos a moradores que escolhem suas rotas. Uma pessoa observa de um banco na sombra enquanto outras conversam. Evitar símbolos de quebra-cabeça, cérebros brilhantes ou superpoderes atribuídos aos moradores.",
+          "alt": "Vários caminhos conduzem à praça; uma pessoa participa observando de um banco tranquilo, acolhida por Prisma."
+        }
+      ],
+      "art": {
+        "width": 1024,
+        "height": 1536,
+        "panels": [
+          {
+            "y": 0,
+            "height": 432
+          },
+          {
+            "y": 446,
+            "height": 363
+          },
+          {
+            "y": 824,
+            "height": 712
+          }
+        ]
+      }
+    },
+    {
+      "number": 5,
+      "title": "Lúmen · O sinal estava perto",
+      "accent": "#ffd166",
+      "panels": [
+        {
+          "narration": "À margem de uma estrela apagada, Lúmen esperava um sinal grandioso. Lá embaixo, a rua escura continuava esperando por cuidado.",
+          "speaker": "Lúmen",
+          "dialogue": "Deus, mostra-me por onde começar.",
+          "scene": "Painel horizontal contemplativo. Lúmen, astronauta de armadura marfim e ouro, caveira dourada e tecido branco, permanece na varanda de um farol junto a uma estrela escura. Pequena estrela em cruz discreta no céu. Uma rua com casas apagadas aparece abaixo. Sua moto branca espera na base.",
+          "alt": "Lúmen observa o céu do alto de um farol, enquanto a rua abaixo permanece sem luz."
+        },
+        {
+          "narration": "Um vizinho precisava chegar em casa. Lúmen desceu da torre e acompanhou seus passos. Pela primeira vez, olhou o caminho de perto.",
+          "speaker": "Vizinho",
+          "dialogue": "Pode vir comigo? Não preciso que corra. Só que fique ao meu lado.",
+          "scene": "Painel horizontal de proximidade. Lúmen caminha ao lado de um vizinho adulto por uma rua irregular, ajustando a lanterna dourada à altura do caminho. O vizinho aponta a direção da própria casa. Ninguém é carregado ou conduzido contra vontade; ambos caminham juntos.",
+          "alt": "Lúmen acompanha um vizinho até casa, iluminando o caminho e respeitando seu ritmo."
+        },
+        {
+          "narration": "Sua fé em Deus encontrou um gesto possível. Ao saber da torre que prendia água, calor e sementes, Lúmen acendeu um convite.",
+          "speaker": "Lúmen",
+          "dialogue": "Nexo. Raiz. Brasa. Prisma. Encontrem-nos no farol. Há uma comunidade querendo ser ouvida.",
+          "scene": "Painel horizontal amplo. Lúmen junto a moradores na base do farol. Uma coluna dourada sobe ao céu, iluminando quatro rotas de chegada: ciano, verde, laranja e violeta. Silhueta distante de uma torre de reservatórios e tubulações. A convocação é convite, sem exército ou juramento de obediência.",
+          "alt": "Lúmen acende o farol para convidar os outros quatro cavaleiros a encontrar a comunidade."
+        }
+      ],
+      "art": {
+        "width": 1024,
+        "height": 1536,
+        "panels": [
+          {
+            "y": 0,
+            "height": 497
+          },
+          {
+            "y": 509,
+            "height": 390
+          },
+          {
+            "y": 910,
+            "height": 626
+          }
+        ]
+      }
+    },
+    {
+      "number": 6,
+      "title": "O encontro · Cinco luzes, muitas vozes",
+      "accent": "#f3d89c",
+      "panels": [
+        {
+          "narration": "Os cinco chegaram ao farol. Antes da missão, ouviram quem vivia ali. A máquina da Cobiça retinha água, calor e sementes.",
+          "speaker": "Lúmen",
+          "dialogue": "Quem conhece este lugar nos ajuda a decidir por onde começar?",
+          "scene": "Painel horizontal amplo. Os cinco cavaleiros estão num círculo com moradores em torno de mapa luminoso. Todos identificáveis por cores: Nexo ciano, Raiz verde, Brasa laranja, Prisma violeta, Lúmen branco e ouro. Ao fundo, torre escura com reservatórios de água, calor e sementes. Cinco motos estacionadas.",
+          "alt": "Os cinco cavaleiros se reúnem com moradores ao redor de um mapa da máquina que retém os recursos."
+        },
+        {
+          "narration": "Brasa ergueu o punho. Uma moradora deteve o plano apressado: sob a torre passava a última nascente. Precisavam abrir, sem destruir.",
+          "speaker": "Moradora",
+          "dialogue": "Se derrubarem a torre, vão soterrar a água. Eu conheço as válvulas. Vamos pelo canal antigo.",
+          "scene": "Painel horizontal próximo. Uma moradora adulta aponta no mapa um canal sob a torre. Brasa baixa a mão aberta e escuta; Raiz observa o desenho da nascente. Nexo e Prisma marcam rotas alternativas, enquanto Lúmen acompanha. Não retratar agressão à moradora.",
+          "alt": "Uma moradora mostra que destruir a torre também destruiria a nascente, e propõe usar um canal antigo."
+        },
+        {
+          "narration": "O plano ganhou pausas, rotas alternativas e funções escolhidas. Então a Cobiça ofereceu aos cavaleiros o comando da torre em troca de silêncio.",
+          "speaker": "Cobiça",
+          "dialogue": "Fiquem com as chaves. Toda a cidade dependerá de vocês.",
+          "scene": "Painel horizontal dramático. Sombra abstrata da Cobiça projetada da torre, sem rosto humano, oferece cinco chaves brilhantes sobre uma única cadeira de comando. Os cavaleiros se entreolham; moradores permanecem junto ao mapa. Uma mulher opta pelo espaço de descanso e outra assume sua função combinada.",
+          "alt": "A Cobiça oferece aos cavaleiros as chaves da torre e o poder de controlar os recursos da cidade."
+        }
+      ],
+      "art": {
+        "width": 1024,
+        "height": 1536,
+        "panels": [
+          {
+            "y": 0,
+            "height": 485
+          },
+          {
+            "y": 496,
+            "height": 479
+          },
+          {
+            "y": 986,
+            "height": 550
+          }
+        ]
+      }
+    },
+    {
+      "number": 7,
+      "title": "A escolha · Abrir sem dominar",
+      "accent": "#67e8f9",
+      "panels": [
+        {
+          "narration": "Os cinco recusaram o trono. Nexo sustentou a travessia; Prisma abriu caminhos de luz suave. Cada grupo escolheu quando seguir.",
+          "speaker": "Nexo",
+          "dialogue": "Não queremos súditos. A ponte é de quem atravessa.",
+          "scene": "Painel horizontal de ação. Nexo tece uma ponte ciano larga sobre o canal; Prisma projeta uma rota violeta alternativa tranquila. Moradores avançam em pequenos grupos escolhidos; um permanece no ponto de descanso. Ao fundo, a cadeira de controle continua vazia. Motos guardadas longe da travessia.",
+          "alt": "Nexo sustenta uma ponte e Prisma oferece rotas alternativas para os grupos chegarem às válvulas."
+        },
+        {
+          "narration": "Brasa estabilizou o calor enquanto Raiz protegia as sementes. Guiados pelos moradores, soltaram as travas aos poucos, preservando a nascente e os ninhos.",
+          "speaker": "Raiz",
+          "dialogue": "Mais devagar. Ainda há vida aqui dentro.",
+          "scene": "Painel horizontal de ação cuidadosa. Brasa controla uma chama laranja ao lado de tubulação térmica; Raiz abriga recipientes de sementes e um ninho distante da corrente. Uma moradora opera um volante de válvula; outra observa o nível da água. Chamas não queimam seres vivos; nenhum dano explosivo.",
+          "alt": "Brasa estabiliza o calor; Raiz protege sementes e ninhos enquanto moradores abrem as válvulas gradualmente."
+        },
+        {
+          "narration": "Lúmen revelou o mecanismo final. Cada bairro recebeu acesso às válvulas. Quando ninguém pôde guardar tudo sozinho, a máquina perdeu sua força.",
+          "speaker": "Lúmen",
+          "dialogue": "As decisões são de vocês. Nosso lugar é ao lado, enquanto nossa ajuda fizer sentido.",
+          "scene": "Painel horizontal de clímax. Lúmen ilumina um mecanismo com várias válvulas independentes. Moradores abrem os controles lado a lado; os outros cavaleiros sustentam a proteção. Tubulações levam água e calor a diferentes bairros. A sombra abstrata da Cobiça se desfaz sem vítimas, explosão ou ataque.",
+          "alt": "Moradores assumem diferentes válvulas iluminadas por Lúmen; água e calor voltam a circular e a sombra da Cobiça perde força."
+        }
+      ],
+      "art": {
+        "width": 1024,
+        "height": 1536,
+        "panels": [
+          {
+            "y": 0,
+            "height": 496
+          },
+          {
+            "y": 508,
+            "height": 405
+          },
+          {
+            "y": 925,
+            "height": 611
+          }
+        ]
+      }
+    },
+    {
+      "number": 8,
+      "title": "O começo · Cuidar também amanhã",
+      "accent": "#86efac",
+      "panels": [
+        {
+          "narration": "A água voltou às praças, o calor aos abrigos e as sementes aos jardins. A confiança cresceu com promessas finalmente cumpridas.",
+          "speaker": "Moradora",
+          "dialogue": "A fonte abriu. Agora precisamos cuidar para que continue aberta.",
+          "scene": "Painel horizontal de alívio. Fonte comunitária aberta e água clara em canais modestos; moradores enchem recipientes, cuidam de animais e levam sementes a canteiros. Cinco cavaleiros auxiliam, sem pedestal ou multidão ajoelhada. A torre ao fundo tornou-se infraestrutura partilhada, ainda em reparo.",
+          "alt": "Água, calor e sementes voltam à comunidade, que organiza o acesso e começa os reparos."
+        },
+        {
+          "narration": "Nos meses seguintes, houve mutirões, pausas e recomeços. Mudas cresceram devagar. Pessoas neurodivergentes participaram das decisões, com apoio e liberdade para recusar.",
+          "speaker": "Raiz",
+          "dialogue": "Uma floresta não cabe num dia. Voltamos amanhã.",
+          "scene": "Painel horizontal meses depois. Canteiros de Caatinga com mudas pequenas, árvores preservadas e margem de rio sendo recuperada gradualmente. Raiz trabalha junto a moradores; Prisma oferece quadro de tarefas acessível. Algumas pessoas descansam sob cobertura. Não mostrar floresta adulta instantânea ou milagre ecológico.",
+          "alt": "Meses depois, moradores e cavaleiros cuidam de mudas ainda pequenas, alternando trabalho, apoio e descanso."
+        },
+        {
+          "narration": "Ao partir, os cinco fizeram um pacto. A fé em Deus seguiria em gestos de cuidado, respeitando quem acreditasse de outro modo.",
+          "speaker": "Os cinco cavaleiros",
+          "dialogue": "Nenhuma vida como moeda. Nenhuma diferença como barreira. Enquanto houver caminho, haverá cuidado.",
+          "scene": "Painel horizontal final amplo. Os cinco cavaleiros montados em suas motos cósmicas, alinhados sem pose militar diante do amanhecer: ciano, verde, laranja, violeta, branco e ouro. Ao lado, moradores continuam uma reunião com o mapa e controles partilhados, assumindo suas decisões. Nascente, mudas e farol aceso ao fundo; sensação de próximo capítulo.",
+          "alt": "Os cinco cavaleiros partem ao amanhecer; a comunidade permanece conduzindo o cuidado da água, do jardim e dos caminhos."
+        }
+      ],
+      "art": {
+        "width": 1024,
+        "height": 1536,
+        "panels": [
+          {
+            "y": 0,
+            "height": 494
+          },
+          {
+            "y": 498,
+            "height": 490
+          },
+          {
+            "y": 992,
+            "height": 544
+          }
+        ]
+      }
+    }
+  ],
+  "continuity_notes": [
+    "Nexo, Raiz, Brasa, Prisma e Lúmen preservam nomes, cores, virtudes e transformações pessoais do JSON canônico.",
+    "Prisma é cartógrafa. Nenhum diagnóstico individual foi atribuído aos cavaleiros.",
+    "Lúmen reúne a equipe. Fé em Deus aparece ligada a cuidado cotidiano e respeito à liberdade de consciência.",
+    "A máquina central, a oferta das chaves e o pacto final são novos elementos desta HQ, desenvolvidos a partir da Cobiça e da Névoa da Indiferença já existentes.",
+    "A participação de moradores neurodivergentes envolve decisões, comunicação, pausas e escolhas, sem talento obrigatório ou cura mágica.",
+    "A recuperação da natureza exige trabalho e meses de cuidado. O cenário e os poderes são ficcionais."
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "consulta": "2026-10-20",
+  "atualizacao": "manual",
+  "tipo_qr": "URL do site institucional ou canal oficial de doação; não é BR Code de pagamento Pix",
+  "intermediacao_financeira": false,
+  "validacao_bancaria": false,
+  "auditoria_independente_relatorios": false,
+  "instituicoes": [
+    {
+      "id": "caatinga",
+      "nome": "Associação Caatinga",
+      "identidade": "Associação Caatinga",
+      "categoria": "CONSERVAÇÃO · BIOMA CAATINGA",
+      "descricao": "Apoie a conservação da Caatinga, a educação ambiental e as iniciativas de proteção desse patrimônio natural brasileiro.",
+      "cnpj": "02.885.544/0001-03",
+      "site": "https://www.acaatinga.org.br/",
+      "doacao": "https://www.acaatinga.org.br/proteja-a-caatinga/",
+      "qr_url": "https://www.acaatinga.org.br/proteja-a-caatinga/",
+      "transparencia": "https://www.acaatinga.org.br/transparencia/",
+      "pix": "02885544000103",
+      "pix_tipo": "CNPJ",
+      "pix_publicacao_original": "02.885.544/0001-03",
+      "pix_fonte": "https://www.acaatinga.org.br/proteja-a-caatinga/",
+      "pix_status": "Chave Pix expressamente publicada no canal oficial de doação; exibida sem pontuação para copiar.",
+      "beneficiario": "Associação Caatinga",
+      "fontes": [
+        "https://www.acaatinga.org.br/",
+        "https://www.acaatinga.org.br/proteja-a-caatinga/",
+        "https://www.acaatinga.org.br/transparencia/"
+      ],
+      "limites": "A página de doação não apresenta data de atualização. Não houve validação bancária nem análise independente dos balanços vinculados."
+    },
+    {
+      "id": "tamar",
+      "nome": "Projeto Tamar",
+      "identidade": "Fundação Centro Brasileiro de Proteção e Pesquisa das Tartarugas Marinhas — Pró-Tamar",
+      "categoria": "VIDA MARINHA · LITORAL BRASILEIRO",
+      "descricao": "Conheça o trabalho de conservação das tartarugas marinhas e as formas oficiais de apoiar o Projeto Tamar.",
+      "cnpj": "16.110.041/0001-70",
+      "site": "https://tamar.org.br/",
+      "doacao": "https://tamar.org.br/interna.php?cod=201",
+      "qr_url": "https://tamar.org.br/interna.php?cod=201",
+      "transparencia": "https://tamar.org.br/interna.php?cod=458",
+      "pix": null,
+      "pix_fonte": null,
+      "pix_status": "Chave Pix de doação não confirmada nos canais oficiais consultados. O Projeto Tamar orienta apoio por visitas aos centros, compras nas lojas oficiais e divulgação. Consulte as formas de apoio diretamente com a instituição.",
+      "tipo_apoio": "Visitas, lojas oficiais e divulgação; sem canal Pix de doação confirmado",
+      "botao_apoio": "Conhecer formas de apoio",
+      "fontes": [
+        "https://tamar.org.br/interna.php?cod=201",
+        "https://tamar.org.br/interna.php?cod=200",
+        "https://tamar.org.br/interna.php?cod=63",
+        "https://tamar.org.br/transparencia/2025_Balanco_Demonstrativos_Contabeis_Publicado.pdf"
+      ],
+      "limites": "A fundação é distinta do Centro TAMAR/ICMBio. O balanço de 2025, publicado em 16/06/2026, foi consultado para identificar nome e CNPJ; isso não constitui auditoria dos resultados. Não foi presumido que o CNPJ seja Pix."
+    },
+    {
+      "id": "sos-mata-atlantica",
+      "nome": "SOS Mata Atlântica",
+      "identidade": "Fundação SOS Pró-Mata Atlântica",
+      "categoria": "FLORESTAS E ÁGUA · MATA ATLÂNTICA",
+      "descricao": "Contribua com a conservação da Mata Atlântica, a restauração de florestas e a proteção da água pelos canais oficiais da organização.",
+      "cnpj": "57.354.540/0001-90",
+      "site": "https://www.sosma.org.br/",
+      "doacao": "https://www.sosma.org.br/doacao",
+      "qr_url": "https://www.sosma.org.br/doacao",
+      "transparencia": "https://www.sosma.org.br/sobre/relatorios-e-balancos",
+      "pix": "57354540000190",
+      "pix_tipo": "CNPJ",
+      "pix_publicacao_original": "57.354.540/0001-90",
+      "pix_fonte": "https://www.sosma.org.br/doacao",
+      "pix_status": "Chave Pix expressamente publicada na página geral de doação; exibida sem pontuação para copiar.",
+      "beneficiario": "Fundação SOS Pró-Mata Atlântica",
+      "fontes": [
+        "https://www.sosma.org.br/",
+        "https://www.sosma.org.br/doacao",
+        "https://www.sosma.org.br/termos-de-uso",
+        "https://www.sosma.org.br/sobre/relatorios-e-balancos"
+      ],
+      "limites": "A página de doação não apresenta data de atualização. Alguns relatórios podem solicitar cadastro para download; nenhum cadastro foi realizado. Documentos não foram auditados e a chave não foi validada na rede bancária."
+    },
+    {
+      "id": "apae-fortaleza",
+      "nome": "APAE Fortaleza",
+      "identidade": "Associação de Pais e Amigos dos Excepcionais — APAE de Fortaleza",
+      "categoria": "INCLUSÃO E CUIDADO · FORTALEZA",
+      "descricao": "Conheça o trabalho da APAE Fortaleza e contribua para o cuidado e a inclusão de pessoas com deficiência intelectual e múltipla.",
+      "cnpj": "07.143.845/0001-85",
+      "site": "https://fortaleza.apaece.org.br/",
+      "doacao": "https://fortaleza.apaece.org.br/doacao",
+      "qr_url": "https://fortaleza.apaece.org.br/doacao",
+      "transparencia": "https://fortaleza.apaece.org.br/transparencia",
+      "pix": "07143845000185",
+      "pix_tipo": "CNPJ",
+      "pix_publicacao_original": "07.143.845/0001-85",
+      "pix_fonte": "https://fortaleza.apaece.org.br/doacao",
+      "pix_status": "Chave Pix expressamente publicada na página oficial de doação; exibida aqui sem pontuação para copiar.",
+      "beneficiario": "Associação de Pais e Amigos dos Excepcionais — APAE de Fortaleza",
+      "fontes": [
+        "https://fortaleza.apaece.org.br/",
+        "https://fortaleza.apaece.org.br/doacao",
+        "https://fortaleza.apaece.org.br/transparencia"
+      ],
+      "limites": "A página de doação não apresenta data de atualização. Documentos contábeis vinculados não foram analisados; não houve validação bancária."
+    },
+    {
+      "id": "verde-luz",
+      "nome": "Instituto Verdeluz",
+      "identidade": "Instituto Verdeluz · Fortaleza, Ceará",
+      "categoria": "NATUREZA E EDUCAÇÃO · CEARÁ",
+      "descricao": "Apoie iniciativas socioambientais no Ceará. Conheça os projetos, a educação ambiental e os documentos divulgados pela instituição.",
+      "cnpj": "24.874.888/0001-50",
+      "site": "https://verdeluz.org/",
+      "doacao": "https://institutoverdeluz.doe.transforme.solutions/1405",
+      "qr_url": "https://verdeluz.org/",
+      "transparencia": "https://verdeluz.org/transparencia/",
+      "pix": null,
+      "pix_fonte": "https://www.asaas.com/c/sq3wnxdovqp292jy",
+      "pix_status": "Pix disponível no canal Asaas vinculado pelo site institucional. Na consulta, esse canal exibe doação única de R$ 30. Não há chave fixa atual confirmada para reproduzir aqui.",
+      "fontes": [
+        "https://verdeluz.org/",
+        "https://verdeluz.org/transparencia/",
+        "https://institutoverdeluz.transforme.tech/doeagora/1405",
+        "https://www.asaas.com/c/sq3wnxdovqp292jy"
+      ],
+      "limites": "O portal lista estatuto, atas, atividades e balanço financeiro. Os documentos vinculados não foram analisados. A campanha encerrada de 2020 não foi usada para confirmar chave Pix atual."
+    },
+    {
+      "id": "unicef",
+      "nome": "UNICEF",
+      "identidade": "Fundo das Nações Unidas para a Infância",
+      "categoria": "INFÂNCIA E ADOLESCÊNCIA",
+      "descricao": "Apoie a proteção dos direitos de crianças e adolescentes no Brasil e no mundo.",
+      "cnpj": "03.744.126/0001-69",
+      "site": "https://www.unicef.org/brazil/",
+      "doacao": "https://help.unicef.org/brazil/",
+      "transparencia": "https://www.unicef.org/brazil/relatorios/relatorio-anual-doadores",
+      "pix": "pix@unicef.org",
+      "pix_fonte": "https://www.unicef.org/brazil/media/29431/file",
+      "pix_status": "Chave divulgada no material oficial, ligado pela página atual de comunicados.",
+      "beneficiario": "Fundo das Nações Unidas para a Infância",
+      "fontes": [
+        "https://www.unicef.org/brazil/comunicados-doacoes",
+        "https://www.unicef.org/brazil/comunicados-de-imprensa/nota-unicef-fraudes-doacoes",
+        "https://help.unicef.org/brazil/sit-web?language=pt-br"
+      ]
+    },
+    {
+      "id": "msf",
+      "nome": "Médicos Sem Fronteiras",
+      "identidade": "Médicos Sem Fronteiras Brasil",
+      "categoria": "AJUDA MÉDICA HUMANITÁRIA",
+      "descricao": "Contribua com assistência médica humanitária a pessoas afetadas por conflitos, epidemias e outras emergências.",
+      "cnpj": "13.844.894/0001-48",
+      "site": "https://www.msf.org.br/",
+      "doacao": "https://doe.msf.org.br/",
+      "transparencia": "https://www.msf.org.br/quem-somos/transparencia-e-prestacao-de-contas/",
+      "pix": null,
+      "pix_fonte": "https://www.msf.org.br/faq/quais-sao-formas-de-pagamento-para-doacoes-no-site/",
+      "pix_status": "Na doação única, selecione Pix no canal oficial. O código é emitido após cadastro; não há chave fixa reproduzida aqui.",
+      "fontes": [
+        "https://www.msf.org.br/politica-de-doacoes/"
+      ]
+    },
+    {
+      "id": "caritas",
+      "nome": "Cáritas Brasileira",
+      "identidade": "Cáritas Brasileira",
+      "categoria": "SOLIDARIEDADE E DIREITOS",
+      "descricao": "Conheça as ações de solidariedade e defesa de direitos e contribua pelo canal nacional da instituição.",
+      "cnpj": "33.654.419/0001-16",
+      "site": "https://caritas.org.br/",
+      "doacao": "https://caritas.org.br/colabore",
+      "transparencia": "https://caritas.org.br/transparencia",
+      "pix": "colabore@caritas.org.br",
+      "pix_fonte": "https://caritas.org.br/colabore",
+      "pix_status": "Chave Pix publicada na página nacional Colabore.",
+      "fontes": [
+        "https://caritas.org.br/fale-conosco"
+      ]
+    },
+    {
+      "id": "pastoral",
+      "nome": "Pastoral da Criança",
+      "identidade": "Pastoral da Criança",
+      "categoria": "CUIDADO NA PRIMEIRA INFÂNCIA",
+      "descricao": "Conheça o trabalho de acompanhamento de gestantes, crianças e famílias e as formas oficiais de contribuir.",
+      "cnpj": "00.975.471/0001-15",
+      "site": "https://www.pastoraldacrianca.org.br/",
+      "doacao": "https://www.pastoraldacrianca.org.br/doar",
+      "transparencia": "https://www.pastoraldacrianca.org.br/financeiro",
+      "pix": null,
+      "pix_fonte": "https://www.pastoraldacrianca.org.br/doar",
+      "pix_status": "A página oficial oferece Pix no formulário de doação. Obtenha o código diretamente lá; não reproduzimos chave histórica.",
+      "fontes": [
+        "https://www.pastoraldacrianca.org.br/images/quemsomos/financeiro2025/NOTAS_DF_Pastoral_da_Crianca_2024_2025_MOORE_FINAL_11112025_SLR_Final_assinada.pdf"
+      ]
+    },
+    {
+      "id": "gerando-falcoes",
+      "nome": "Gerando Falcões",
+      "identidade": "Instituto Gerando Falcões",
+      "categoria": "COMBATE À POBREZA",
+      "descricao": "Conheça os programas de desenvolvimento social e combate à pobreza nas favelas e os canais de contribuição.",
+      "cnpj": "18.463.148/0001-28",
+      "site": "https://www.gerandofalcoes.com/",
+      "doacao": "https://doe.gerandofalcoes.com/p/single_step",
+      "transparencia": "https://www.gerandofalcoes.com/transparencia",
+      "pix": null,
+      "pix_fonte": null,
+      "pix_status": "Chave Pix não confirmada nesta consulta. Confira as formas de contribuição disponíveis no site oficial.",
+      "fontes": [
+        "https://www.gerandofalcoes.com/"
+      ]
+    }
+  ]
+}
